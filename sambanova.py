@@ -189,7 +189,7 @@ st.markdown(
     """
     <footer style='text-align: center; padding: 10px; background-color: #1E1E1E; color: white;'>
        Powered by SambaNova API, PandasAI, and Open Source Tools<br>
-       Made with ❤️ by Martin Khristi
+       Made with ❤️ by Piyush
     </footer>
     """,
     unsafe_allow_html=True,
